@@ -1,73 +1,83 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,50:FF4444,100:00D2BE&height=220&section=header&text=HILARIO%20HERRERA&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=F1%20Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Motorsport%20Enthusiast&descAlignY=52&descSize=20" width="100%"/>
+<!-- Animated Racing Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:E10600,100:15151E&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🏎️+Formula+1+Data+Science;📊+50%2B+Visualizations+%7C+1M%2B+Data+Points;⚡+Telemetry+%7C+G-Force+%7C+Aerodynamics+%7C+Strategy" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=E10600&center=true&vCenter=true&repeat=true&width=700&height=70&lines=HILARIO+HERRERA" alt="Name" />
 
-<!-- Live Demo Button -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00D2BE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=35&lines=F1+DATA+ANALYST+%7C+PYTHON+DEVELOPER" alt="Title" />
+
 <br>
+
+<!-- Animated F1 Car GIF -->
+<img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" width="300"/>
+
+<br><br>
+
+<!-- Main CTA Buttons -->
 <a href="https://eliherrera33.github.io/F1-Data-Analysis/">
-<img src="https://img.shields.io/badge/🏁_VIEW_LIVE_F1_DASHBOARD-E10600?style=for-the-badge&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/🏁_LIVE_F1_DASHBOARD-View_Now-E10600?style=for-the-badge&labelColor=15151E" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/Eliherrera33/F1-Data-Analysis">
-<img src="https://img.shields.io/badge/📊_EXPLORE_THE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/📊_SOURCE_CODE-Explore-00D2BE?style=for-the-badge&labelColor=15151E&logo=github" height="45"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Eliherrera33&style=for-the-badge&color=E10600"/>
+<!-- Stats Row -->
+<img src="https://img.shields.io/badge/50+-Visualizations-E10600?style=flat-square&labelColor=15151E"/>
+<img src="https://img.shields.io/badge/12-Analysis_Scripts-00D2BE?style=flat-square&labelColor=15151E"/>
+<img src="https://img.shields.io/badge/1M+-Data_Points-FF8700?style=flat-square&labelColor=15151E"/>
+<img src="https://img.shields.io/badge/3-Tracks_Analyzed-FFFFFF?style=flat-square&labelColor=15151E"/>
 
 </div>
 
-<!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
-## 🏆 FEATURED PROJECT
+## 🏆 F1 DATA ANALYSIS SUITE
 
-<a href="https://github.com/Eliherrera33/F1-Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliherrera33&repo=F1-Data-Analysis&theme=radical&border_color=E10600&bg_color=0d1117&title_color=E10600&icon_color=00D2BE&description_color=ffffff" width="500"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=25&lines=Telemetry+%E2%80%A2+G-Force+%E2%80%A2+Aerodynamics+%E2%80%A2+Strategy+%E2%80%A2+Power+Units" alt="Features" />
 
 </div>
 
-## 🏎️ F1 Data Analysis Suite
-
-> **A comprehensive Formula 1 data science project** analyzing telemetry, G-forces, aerodynamics, and race strategy using Python and the FastF1 API.
+<br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🔬 What I Built
+### 🔬 What I Analyze
 
-| Module | Description |
-|--------|-------------|
-| **📍 Telemetry** | Real-time speed traces, track maps, driver comparisons |
-| **💪 G-Force** | 5.5G braking calculations with F1 TV-style gauges |
-| **🌪️ Aerodynamics** | CFD-based downforce/drag using PERRINN data |
-| **🛞 Strategy** | Tire degradation & pit stop optimization |
-| **⚡ Power Units** | 1.6L V6 Turbo Hybrid specs & analysis |
+```python
+class F1DataAnalyst:
+    def __init__(self):
+        self.tools = ["FastF1", "Pandas", "NumPy", "Matplotlib"]
+        self.tracks = ["Monaco", "Spa", "Monza"]
+        
+    def analyze(self):
+        return {
+            "telemetry": "Speed, throttle, brake, gear",
+            "g_forces": "Up to 5.8G lateral, 5.5G braking",
+            "aero": "Downforce exceeds car weight at 200km/h!",
+            "strategy": "Tire degradation & pit optimization"
+        }
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="40%">
 
-### 📊 By The Numbers
+### 📈 Key Metrics
 
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🎨 Visualizations | **50+** |
-| 🐍 Analysis Scripts | **12** |
-| 🏁 Tracks Analyzed | **Monaco, Spa, Monza** |
-| 👨‍✈️ Drivers Compared | **20** |
-| 📈 Data Points | **1,000,000+** |
-
-</div>
+| Analysis | Result |
+|:--------:|:------:|
+| 🔴 Max Braking G | **5.5G** |
+| 🟡 Max Lateral G | **5.8G** |
+| 💨 Peak Downforce | **9,600 N** |
+| 🏎️ Top Speed | **350+ km/h** |
+| ⚡ Thermal Efficiency | **50%+** |
 
 </td>
 </tr>
@@ -75,17 +85,35 @@
 
 ---
 
-## 🖼️ Sample Visualizations
+## 🖼️ Project Showcase
 
 <div align="center">
 
-| G-Force Gauges | Telemetry Analysis |
-|:--------------:|:------------------:|
-| <img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/gforce_visualizations/gforce_circular_meter.png" width="400"/> | <img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/telemetry_visualizations/2024_Monaco_Grand_Prix_track_map.png" width="400"/> |
+### G-Force Analysis
+*F1 TV-style circular and diamond gauges showing driver forces*
 
-| Aerodynamics | Tire Strategy |
-|:------------:|:-------------:|
-| <img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/windtunnel_data/visualizations/aero_calculator_plots.png" width="400"/> | <img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/tire_pitstop_visualizations/2024_Monaco_Grand_Prix_tire_strategy.png" width="400"/> |
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/gforce_visualizations/gforce_circular_meter.png" width="80%"/>
+
+---
+
+### Track Telemetry
+*GPS-based track visualization with speed coloring*
+
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/telemetry_visualizations/2024_Monaco_Grand_Prix_track_map.png" width="80%"/>
+
+---
+
+### Aerodynamic Calculations
+*Physics-based downforce/drag using CFD data*
+
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/windtunnel_data/visualizations/aero_calculator_plots.png" width="80%"/>
+
+---
+
+### Tire Strategy
+*Compound usage and pit stop analysis*
+
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/tire_pitstop_visualizations/2024_Monaco_Grand_Prix_tire_strategy.png" width="80%"/>
 
 </div>
 
@@ -95,7 +123,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github&theme=dark" />
 
 <br><br>
 
@@ -103,8 +131,8 @@
 ![FastF1](https://img.shields.io/badge/FastF1-E10600?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
 </div>
 
@@ -114,40 +142,49 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eliherrera33&show_icons=true&theme=radical&border_color=E10600&bg_color=0d1117&title_color=E10600&icon_color=00D2BE&text_color=ffffff" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliherrera33&theme=radical&border=E10600&background=0d1117&stroke=E10600&ring=E10600&fire=00D2BE&currStreakLabel=00D2BE" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Eliherrera33&show_icons=true&theme=radical&border_color=E10600&bg_color=0d1117&title_color=E10600&icon_color=00D2BE&text_color=ffffff&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliherrera33&theme=radical&border=E10600&background=0d1117&stroke=E10600&ring=E10600&fire=00D2BE&currStreakLabel=00D2BE&hide_border=true" height="180"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eliherrera33&theme=redical&bg_color=0d1117&color=E10600&line=00D2BE&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="mailto:herrerah091@gmail.com"><img src="https://img.shields.io/badge/Email-herrerah091%40gmail.com-E10600?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://eliherrera33.github.io/F1-Data-Analysis/"><img src="https://img.shields.io/badge/🏁_F1_Portfolio-Live-E10600?style=for-the-badge"/></a>
+<a href="mailto:herrerah091@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-herrerah091@gmail.com-E10600?style=for-the-badge&labelColor=15151E"/>
+</a>
+<a href="https://linkedin.com/in/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=15151E"/>
+</a>
 
 <br><br>
 
-### 🎯 Currently Open To:
-**Data Analyst roles in Motorsport, Sports Analytics, or Tech**
+### 🎯 Open to Opportunities
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=2000&color=00D2BE&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Data+Analyst+%7C+Motorsport+%7C+Sports+Analytics" alt="Opportunities" />
 
 <br>
 
-> *"At 350 km/h, data is the difference between victory and defeat."* 🏎️
+> *"In Formula 1, milliseconds matter. Data reveals where they're found."* 🏁
 
 </div>
 
 <!-- Snake Animation -->
 <div align="center">
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
-<!-- Footer Wave -->
+<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,50:FF4444,100:00D2BE&height=120&section=footer" width="100%"/>
