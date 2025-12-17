@@ -92,16 +92,16 @@ class F1DataAnalyst:
 <div align="center">
 
 ### G-Force Analysis
-*F1 TV-style circular and diamond gauges showing driver forces*
+*Cross-track G-force comparison with circular gauges, diamond meters, and peak G bars*
 
-<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/gforce_visualizations/gforce_circular_meter.png" width="80%"/>
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/gforce_visualizations/gforce_track_gauge_comparison.png" width="80%"/>
 
 ---
 
-### Track Telemetry
-*GPS-based track visualization with speed coloring*
+### Track Speed Heatmaps
+*Monaco, Spa, Monza - Speed visualization by track section*
 
-<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/telemetry_visualizations/2024_Monaco_Grand_Prix_track_map.png" width="80%"/>
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/windtunnel_data/visualizations/track_speed_heatmaps.png" width="80%"/>
 
 ---
 
@@ -112,10 +112,10 @@ class F1DataAnalyst:
 
 ---
 
-### Tire Strategy
-*Compound usage and pit stop analysis*
+### Pit Stop Distribution
+*2024 Season pit stop timing analysis by team*
 
-<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/tire_pitstop_visualizations/2024_Monaco_Grand_Prix_tire_strategy.png" width="80%"/>
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/tire_pitstop_visualizations/pit_stop_distribution_2024.png" width="80%"/>
 
 </div>
 
