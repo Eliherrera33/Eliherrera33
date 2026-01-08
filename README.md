@@ -21,17 +21,21 @@
 <img src="https://img.shields.io/badge/🏁_LIVE_F1_DASHBOARD-View_Now-E10600?style=for-the-badge&labelColor=15151E" height="45"/>
 </a>
 &nbsp;&nbsp;
+<a href="https://eliherrera33.github.io/F1-Data-Analysis/aero_calculator.html">
+<img src="https://img.shields.io/badge/🌪️_AERO_CALCULATOR-Interactive-00D2BE?style=for-the-badge&labelColor=15151E" height="45"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/Eliherrera33/F1-Data-Analysis">
-<img src="https://img.shields.io/badge/📊_SOURCE_CODE-Explore-00D2BE?style=for-the-badge&labelColor=15151E&logo=github" height="45"/>
+<img src="https://img.shields.io/badge/📊_SOURCE_CODE-Explore-FF8700?style=for-the-badge&labelColor=15151E&logo=github" height="45"/>
 </a>
 
 <br><br>
 
 <!-- Stats Row -->
-<img src="https://img.shields.io/badge/50+-Visualizations-E10600?style=flat-square&labelColor=15151E"/>
-<img src="https://img.shields.io/badge/12-Analysis_Scripts-00D2BE?style=flat-square&labelColor=15151E"/>
-<img src="https://img.shields.io/badge/1M+-Data_Points-FF8700?style=flat-square&labelColor=15151E"/>
-<img src="https://img.shields.io/badge/3-Tracks_Analyzed-FFFFFF?style=flat-square&labelColor=15151E"/>
+<img src="https://img.shields.io/badge/142-Visualizations-E10600?style=flat-square&labelColor=15151E"/>
+<img src="https://img.shields.io/badge/15-Python_Scripts-00D2BE?style=flat-square&labelColor=15151E"/>
+<img src="https://img.shields.io/badge/CFD-OpenFOAM_Ready-FF8700?style=flat-square&labelColor=15151E"/>
+<img src="https://img.shields.io/badge/10-Animated_GIFs-FFFFFF?style=flat-square&labelColor=15151E"/>
 
 </div>
 
