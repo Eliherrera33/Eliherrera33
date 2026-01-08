@@ -91,33 +91,41 @@ class F1DataAnalyst:
 
 <div align="center">
 
-### G-Force Analysis
-*Cross-track G-force comparison with circular gauges, diamond meters, and peak G bars*
+### 🌪️ CFD Aerodynamic Simulation
+*Streamline flow, pressure fields, and force vectors - Real-time airflow visualization*
+
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/cfd_visualizations/streamline_flow.gif" width="80%"/>
+
+---
+
+### 🏎️ Race Simulation with Full Telemetry
+*Monaco GP - Live speed, G-force gauge, throttle/brake, tire compound, DRS*
+
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/race_simulations/monaco_gp_advanced.gif" width="80%"/>
+
+---
+
+### 💪 G-Force Analysis
+*Cross-track comparison: Monaco vs Spa vs Monza*
 
 <img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/gforce_visualizations/gforce_track_gauge_comparison.png" width="80%"/>
 
 ---
 
-### Track Speed Heatmaps
-*Monaco, Spa, Monza - Speed visualization by track section*
+### 📊 CFD Pressure & Velocity Fields
+*Aerodynamic analysis with downforce/drag calculations*
 
-<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/windtunnel_data/visualizations/track_speed_heatmaps.png" width="80%"/>
-
----
-
-### Aerodynamic Calculations
-*Physics-based downforce/drag using CFD data*
-
-<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/windtunnel_data/visualizations/aero_calculator_plots.png" width="80%"/>
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/cfd_visualizations/pressure_velocity_fields.png" width="80%"/>
 
 ---
 
-### Pit Stop Distribution
-*2024 Season pit stop timing analysis by team*
+### 🏁 Multi-Track Race Visualization  
+*Spa GP - Real telemetry driving car positions*
 
-<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/tire_pitstop_visualizations/pit_stop_distribution_2024.png" width="80%"/>
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/race_simulations/spa_gp_advanced.gif" width="80%"/>
 
 </div>
+
 
 ---
 
