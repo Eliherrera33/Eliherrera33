@@ -94,7 +94,7 @@ class F1DataAnalyst:
 ### 🌪️ CFD Aerodynamic Simulation
 *Streamline flow, pressure fields, and force vectors - Real-time airflow visualization*
 
-<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/cfd_visualizations/streamline_flow.gif" width="80%"/>
+<img src="https://raw.githubusercontent.com/Eliherrera33/F1-Data-Analysis/main/cfd_visualizations/3d_rotation.gif" width="80%"/>
 
 ---
 
